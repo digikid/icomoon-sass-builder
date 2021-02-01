@@ -1,8 +1,8 @@
 # icomoon-sass-builder
 
 ![GitHub release](https://img.shields.io/github/release/digikid/icomoon-scss-builder.svg)
-[![dependencies Status](https://david-dm.org/digikid/icomoon-scss-builder/status.svg)](https://david-dm.org/digikid/gulp-project)
-[![devDependencies Status](https://david-dm.org/digikid/icomoon-scss-builder/dev-status.svg)](https://david-dm.org/digikid/gulp-project?type=dev)
+[![dependencies Status](https://david-dm.org/digikid/icomoon-scss-builder/status.svg)](https://david-dm.org/digikid/icomoon-scss-builder)
+[![devDependencies Status](https://david-dm.org/digikid/icomoon-scss-builder/dev-status.svg)](https://david-dm.org/digikid/icomoon-scss-builder?type=dev)
 
 Автоматическая генерация проекта Icomoon в SASS / SCSS список.
 
@@ -47,7 +47,7 @@ npm ci
 
 ## Запуск
 
-1. Поместите все файлы из zip-архива Icomoon в директорию /icomoon.
+1. Поместите все файлы из zip-архива Icomoon в директорию `/icomoon`.
 
 2. После этого воспользуйтесь командами:
 
